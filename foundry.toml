@@ -1,0 +1,33 @@
+[rpc_endpoints]
+anvil = "http://127.0.0.1:8545"
+mainnet = "https://eth-mainnet.g.alchemy.com/v2/${MAINNET_API_KEY}"
+sepolia = "https://sepolia.infura.io/v3/${SEPOLIA_API_KEY}"
+arbitrum_one = "https://arb-mainnet.g.alchemy.com/v2/${ARBITRUM_ONE_API_KEY}"
+arbitrum_one_sepolia = "https://arbitrum-sepolia.infura.io/v3/${ARBITRUM_ONE_API_KEY}"
+base_sepolia = "https://base-sepolia.infura.io/v3/${BASE_API_KEY}"
+pkey = "${PRIVATE_KEY}"
+holesky = "https://eth-holesky.g.alchemy.com/v2/${HOLESKY_API_KEY}"
+localhost = "http://localhost:8545"
+
+[etherscan]
+mainnet = { key = "${MAINNET_ETHERSCAN_API_KEY}", chain = 1 }
+sepolia = { key = "${SEPOLIA_ETHERSCAN_API_KEY}", chain = 11155111 }
+arbitrum_one = { key = "${ARBITRUM_ONE_ETHERSCAN_API_KEY}", chain = 42161 }
+arbitrum_one_sepolia = { key = "${ARBITRUM_ONE_SEPOLIA_ETHERSCAN_API_KEY}", chain = 421614 }
+holesky = { key = "${HOLESKY_ETHERSCAN_API_KEY}", chain = 17000 }
+base_sepolia = { key = "${BASE_SEPOLIA_ETHERSCAN_API_KEY}", chain = 84532 }
+
+[profile.default]
+remappings = ["@openzeppelin/=lib/openzeppelin-contracts/"]
+solc-version = "0.8.20"
+src = "src"
+out = "out"
+libs = ["lib"]
+via_ir = true
+optimizer = true
+optimizer_runs = 200
+
+
+
+
+
