@@ -1,7 +1,3 @@
-## Purpose Tokenomics Docs
-
-https://docs.google.com/document/d/1htIp_GDpAlvZfOI8ch-Bn_c1rsuGPfocKukAAdqfaiY/edit?usp=sharing
-
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
