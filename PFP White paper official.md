@@ -177,7 +177,6 @@ As the ecosystem matures, token price will be influenced by three primary factor
 
 In our DeFi ecosystem, staking allows participants to lock up $PURPOSE tokens to contribute directly to our vision of supporting affordable housing. Key features include:
 
-- **6-month lockup period** with no slashing penalties for early exit, though early withdrawal results in losing tier position
 - **Tiered staking system** based on timestamp of deposit to the staking pool
 - **Maximum limits** on tokens staked per tier
 - **First-come-first-serve** model incentivizing early participation
