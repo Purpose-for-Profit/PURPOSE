@@ -119,13 +119,13 @@ The mint-as-you-purchase model ensures $PURPOSE tokens maintain a 1:1 correlatio
 
 PFP stands out among competitors through its unique combination of financial returns and social impact:
 
-<img src="images/table_pfp_vsothers.png" width="800"/>
+<img src="White-paper/table_pfp_vsothers.png" width="800"/>
 
 ## 4.Product Framework
 
 ### Business Model
 
-<img src="images/purple chart pfp.jpg" width="800"/>
+<img src="White-paper/purple chart pfp.jpg" width="800"/>
 
 Our business model connects impact investors with affordable housing developers through a transparent blockchain infrastructure. By providing below-market-rate loans to qualified borrowers, we simultaneously generate returns for investors and address the housing shortage.
 
@@ -169,7 +169,7 @@ The $PURPOSE token is an unregistered security designed to facilitate the Purpos
 
 As the ecosystem matures, token price will be influenced by three primary factors:
 
-<img src="images/price_mechanism_factors.png" width="800"/>
+<img src="White-paper/price_mechanism_factors.png" width="800"/>
 
 ## 6.Staking & Rewards System
 
@@ -218,7 +218,7 @@ The Purpose for Profit platform implements a tiered reward distribution system w
 
 #### Distribution Breakdown:
 
-<img src="images/distribution_breakdown.png" width="800"/>
+<img src="White-paper/distribution_breakdown.png" width="800"/>
 
 ## 7.Loan Framework
 
@@ -226,7 +226,7 @@ The Purpose for Profit platform implements a tiered reward distribution system w
 
 **The Purpose For Profit Lending Framework** outlines guidelines for providing short-term financing to businesses developing affordable and mixed-income housing in the United States. Our lending products include lines of credit, construction bridge loans, and short-term multi-family loans.
 
-<img src="images/loan_structuring.png" width="800"/>
+<img src="White-paper/loan_structuring.png" width="800"/>
 
 ### The On-chain Endowment Fund
 
@@ -377,7 +377,7 @@ Key governance features include:
 
 ## 10.Roadmap
 
-<img src="images/2025 roadmap.png" width="800"/>
+<img src="White-paper/2025 roadmap.png" width="800"/>
 
 #### 2025 and Beyond
 
