@@ -225,7 +225,7 @@ The Purpose for Profit platform implements a tiered reward distribution system w
 
 **The Purpose For Profit Lending Framework** outlines guidelines for providing short-term financing to businesses developing affordable and mixed-income housing in the United States. Our lending products include lines of credit, construction bridge loans, and short-term multi-family loans.
 
-<img src="loan_structuring.png" width="800"/>
+<img src="loaning_framework.png" width="800"/>
 
 ### The On-chain Endowment Fund
 
