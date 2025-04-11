@@ -119,7 +119,7 @@ The mint-as-you-purchase model ensures $PURPOSE tokens maintain a 1:1 correlatio
 
 PFP stands out among competitors through its unique combination of financial returns and social impact:
 
-<img src="table_pfp_vsothers.png" width="800"/>
+<img src="fixed_features.png" width="800"/>
 
 ## 4.Product Framework
 
